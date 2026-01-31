@@ -13,3 +13,6 @@ Thumbs.db
 
 # Docker Container Data
 rootfs/
+
+# Docker Compose override files
+docker-compose.override.yaml
